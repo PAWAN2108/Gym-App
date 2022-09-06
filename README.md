@@ -33,5 +33,7 @@ HOME PAGE---
 CONTACT PAGE---
 ![Screenshot (1811)](https://user-images.githubusercontent.com/98953795/188563749-9b746c05-4452-4dea-8490-e2d8e4d09b9e.png)
 
+SERVICE PAGE---
+![Screenshot (1812)](https://user-images.githubusercontent.com/98953795/188564007-5ff30838-c85d-4c17-9090-72b24892d9e1.png)
 
 
