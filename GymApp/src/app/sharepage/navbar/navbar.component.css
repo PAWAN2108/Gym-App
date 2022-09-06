@@ -1,0 +1,52 @@
+.navbar-light .navbar-nav .nav-link.active-link {
+  color: black;
+  text-decoration: navajowhite;
+}
+
+/* .logoHeader {
+  background-image: url("../gm-logo.svg");
+} */
+/* .hLogo {
+  background-image: url("../wordmark.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 190px;
+} */
+.headerTitle {
+  font-size: 2.6em;
+}
+.navbar-brand {
+  position: -webkit-sticky;
+  position: sticky;
+  color: rgb(12, 12, 12);
+  font-family: Arial;
+  padding-left: 20px;
+  float: left;
+  padding-top: 5px;
+  margin-top: 5px;
+}
+nav {
+  position: -webkit-sticky;
+  position: sticky;
+  background-color: #f89c32;
+}
+ul li {
+  margin-left: 60px;
+}
+ul li a {
+  text-decoration: solid;
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+}
+nav div h2 {
+  color: rgb(255, 255, 255);
+  font-weight: 1000;
+}
+#nav {
+  position: -webkit-sticky;
+  position: sticky;
+
+  width: 100%;
+  top: 0;
+  z-index: 100;
+}

@@ -1,0 +1,14 @@
+#style {
+  background-color: rgb(255, 255, 255);
+  position: sticky;
+}
+#logo {
+  background-image: url("../gm-logo.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.container {
+  height: fit-content;
+}
